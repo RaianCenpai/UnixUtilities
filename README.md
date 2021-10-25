@@ -1,7 +1,7 @@
 # UnixUtilities
 Contains simple utilities to be used in a command line such as wcat, wgrep, wunzip, and wzip.
 
-Created as a project for my Operating Systems class.
+Created as a project for Operating Systems class I was taking.
 
 wcat - reads a file and prints its contents.
 
