@@ -14,5 +14,4 @@ wgrep - looks through a file and prints out any line that contains the given sea
 wzip and wunzip - compresses and decompresses files using RLE(run-length encoding).
   
   usage - wzip <file>
-  
         - wunzip <file>
